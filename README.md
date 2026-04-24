@@ -1,16 +1,22 @@
-## Hi there 👋
+# こんにちは！
 
-<!--
-**wh77kmqp29/wh77kmqp29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 自己紹介
+独学でプログラミングを学び、Android・Python・JavaScript
+などを使って30近くのアプリやWebツールを開発してきました。
 
-Here are some ideas to get you started:
+## できること
+- Androidアプリ開発（音楽プレーヤー、GPS連動アプリなど）
+- Pythonでの自動化・AI連携ツール開発
+- JavaScript / HTMLでのWebアプリ開発
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 主な作品
+| 作品名 | 概要 |
+|--------|------|
+| 音楽プレーヤーアプリ | 32バンドEQ・IEMプリセット搭載のAndroid音楽アプリ |
+| AIスケジュール管理 | AIが自動でスケジュールを組むアプリ |
+| PDF自動作成ツール | 情報入力で自動PDF生成するWebアプリ |
+| タスクマネージャー | 日々のタスクを管理するWebアプリ（制作中） |
+
+## 現在の目標
+ポートフォリオを充実させ、在宅勤務可能な
+プログラマーとして就職することを目指しています。
